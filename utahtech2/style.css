@@ -1,0 +1,61 @@
+/* Global Styles */
+body {
+    background-color: #FFFFFF;
+    color: #666666;
+    font-family: Verdana, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Wrapper */
+#wrapper {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Header */
+header {
+    background-color: #003058;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+}
+
+/* Header H1 (descendant selector) */
+header h1 {
+    line-height: 140%;
+    padding: .5rem;
+}
+
+/* Navigation */
+nav {
+    background-color: #F3F3F3;
+    font-weight: bold;
+    padding: .5rem;
+}
+
+/* Headings (H2) */
+h2 {
+    color: #424242;
+    font-family: Georgia, serif;
+}
+
+/* Definition Term (used in students page) */
+dt {
+    color: #003058;
+    font-weight: bold;
+}
+
+/* Special Utah Tech Span */
+.ut {
+    color: #BA1C21;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    font-size: 0.70rem;
+    font-style: italic;
+    text-align: center;
+    padding: 1rem;
+}
